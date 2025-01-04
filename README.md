@@ -1,7 +1,10 @@
 # single-page-cv
 
-this is my first project!
+Hello, i am new to Frontend Developer
 
-open this code with your code editor on the computer to see the project
+here is my first project "single-page CV"
 
+i really appreciate to everyvody that give me an insight of my work
+
+here is my reference
 https://roadmap.sh/projects/single-page-cv
